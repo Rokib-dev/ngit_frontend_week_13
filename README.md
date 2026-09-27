@@ -10,6 +10,14 @@ A lightweight, responsive web application built with vanilla JavaScript, HTML5, 
 - **Input Validation:** Prevents adding empty tasks to keep the list clean.
 - **Clean UI:** Styled with a modern, centered layout and custom CSS styling.
 
+## How to Run
+
+1. Clone this repository or download it as a ZIP.
+2. Open the project folder.
+3. Double-click `index.html` to open it in your browser.
+
+No installation or server setup needed — it runs directly in the browser.
+
 ## Tech Stack
 
 - **HTML5:** Semantic structure for list elements and input forms.
